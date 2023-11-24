@@ -12,4 +12,4 @@ import "./ejercicio3.js";
 // Ejercicio 5
 
 // Ejercicio 6
-
+import "./ejercicio6.js";
