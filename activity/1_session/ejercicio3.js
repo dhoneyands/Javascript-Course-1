@@ -2,6 +2,7 @@
 const startNumber = 1;
 const endNumber = 100;
 
+console.log("Ejercicio 3");
 // Loop through the numbers in the specified range
 for (let i = startNumber; i <= endNumber; i++) {
   // Check the condition (e.g., if the number is even)
